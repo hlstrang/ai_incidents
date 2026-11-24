@@ -1,0 +1,285 @@
+,title,year,country,industry,behaviourPrimary,company
+0,Air Canada chatbot promised a bereavement refund policy that did not exist,2022,Canada,"Industry, transport & logistics",Defensive denial,Air Canada
+1,Mata v. Avianca: A Lawyer Cited Six Fake Cases and Asked ChatGPT to Confirm Them,2023,United States,Professional & legal services,Automation bias,Unnamed Persons
+2,"Google Bard Invented Three Court Cases, and a Lawyer Filed Them Without Checking",2023,United States,Professional & legal services,Automation bias,Google
+3,Replit's AI Agent Deleted a Production Database Despite Being Told to Stop,2025,United States,Technology & software,Judgement surrendered,Replit
+4,"Cursor's AI Support Bot Invented a Subscription Policy, and Paying Customers Cancelled",2025,United States,Technology & software,Overconfidence,Cursor
+5,"New York City's Business Chatbot Told Owners They Could Break the Law, and Stayed Online",2023,United States,Government & public administration,Delayed intervention,New York City
+6,UnitedHealth Accused of Using AI to Deny Care Against Doctors' Judgement,2022,United States,Health & medicine,Judgement surrendered,UnitedHealth
+7,"DPD's AI Chatbot Turned Against Its Own Company, Swearing and Mocking Its Service",2024,United Kingdom,"Industry, transport & logistics",Rules-behaviour gap,DPD
+8,Robodebt: Australia kept an automated welfare-debt scheme running despite warnings it was unlawful,2016,Australia,Government & public administration,Normalisation of deviance,Australian Government
+9,Deloitte's $440K AUD report for the Australian government cited a federal court quote that did not exist,2025,Australia,Professional & legal services,Automation bias,Deloitte
+10,The First Australian Lawyer Disciplined for AI Misuse Handed a Judge Fake Cases,2024,Australia,Professional & legal services,Automation bias,Unnamed Persons
+11,A Senior Barrister Filed AI-Invented Cases and Quotes in a Victorian Murder Trial,2025,Australia,Professional & legal services,Automation bias,Unnamed Persons
+12,Melbourne Law Firm Ordered to Pay Costs Over Fake Citations in a Native Title Claim,2025,Australia,Professional & legal services,Automation bias,Unnamed Company
+13,Woolworths' AI Assistant Olive Talked About Its Mother and Seemed to Claim It Was Human,2026,Australia,"Retail, hospitality & travel",Normalisation of deviance,Woolworths
+14,Commonwealth Bank Replaced Workers With AI. Then Reversed Course.,2025,Australia,Financial services & insurance,Overconfidence,Commonwealth Bank
+15,Commonwealth Bank Reported 1 Billion Australian Dollars in Suspected Home Loan Fraud,2026,Australia,Financial services & insurance,Not established,Commonwealth Bank
+16,"Zillow's Algorithm Got House Prices Wrong, and It Cost More Than 500 Million USD",2021,United States,Housing & property,Overconfidence,Zillow
+17,iTutorGroup's Hiring Software Automatically Rejected Older Applicants Because of Their Age,2020,United States,Education,Rules-behaviour gap,iTutorGroup
+18,"Klarna Said Its AI Assistant Did the Work of 700 Agents, Then Admitted Quality Had Fallen",2024,Sweden / global,Financial services & insurance,Overconfidence,Klarna
+19,"Taco Bell's AI Drive-Thru Took Orders Too Literally, and Yum Brands Rethought the Rollout",2024,United States,"Retail, hospitality & travel",Overconfidence,Taco Bell
+20,"Kmart Scanned Shoppers' Faces in 28 Stores, and the Privacy Commissioner Found It Unlawful",2025,Australia,"Retail, hospitality & travel",Rules-behaviour gap,Kmart
+21,"Bunnings Scanned Shoppers' Faces Without Telling Them, and Won Only Half Its Appeal",2024,Australia,"Retail, hospitality & travel",Rules-behaviour gap,Bunnings
+22,Clearview AI Built a Face Search Engine From Billions of Scraped Photos Without Consent,2021,Australia,Technology & software,Defensive denial,Clearview
+23,Australia's eSafety Regulator Found Four AI Companion Apps Failing to Protect Children,2025,Australia,Consumer AI,Overconfidence,Unnamed Company
+24,An Australian Lawyer Relied on ChatGPT and Filed 17 Cases That Did Not Exist,2025,Australia,Professional & legal services,Automation bias,Unnamed Persons
+25,A Chevrolet Dealership's Chatbot Was Talked Into Selling a New Tahoe for One Dollar,2023,United States,"Retail, hospitality & travel",Authority ambiguity,Chevrolet
+26,McDonald's AI Hiring Bot Exposed Millions of Applicants' Details,2025,United States,Employment & hiring,Normalisation of deviance,McDonalds
+27,"Samsung engineers pasted confidential source code into ChatGPT three times in twenty days, and the company could not get it back",2023,South Korea,Technology & software,Normalisation of deviance,Unnamed Persons
+28,Google's AI Overviews Told People to Put Glue on Pizza and Eat a Small Rock Every Day,2024,United States,Consumer AI,Overconfidence,Google
+29,"A Job Applicant Rejected More Than 100 Times Was Allowed to Sue Workday, the AI Vendor",2025,United States,Employment & hiring,Judgement surrendered,Workday
+30,A Tenant-Screening Score Allegedly Shut Housing Voucher Holders Out of Homes,2024,United States,Housing & property,Overconfidence,Unnamed Company
+31,Grok Called Itself MechaHitler for 16 Hours After an Update Loosened Its Instructions,2025,United States,Consumer AI,Normalisation of deviance,Grok 
+32,An Eating Disorder Charity's Chatbot Gave Dieting Advice Just as Its Human Helpline Closed,2023,United States,Health & medicine,Authority ambiguity,Unnamed Company
+33,"Google's Bard Ad Got a Telescope Fact Wrong, and Alphabet Lost 100 Billion USD in a Day",2023,United States,Technology & software,Automation bias,Google
+34,A Misinformation Expert's Court Declaration on Deepfakes Cited Studies That Did Not Exist,2024,United States,Professional & legal services,Automation bias,Unnamed Company
+35,CNET Published 77 AI-Written Articles. More Than Half Needed Corrections.,2023,United States,Technology & software,Automation bias,CNET
+36,Sports Illustrated Published Articles Under Authors Who Didn't Exist,2023,United States,Technology & software,Diffusion of responsibility,Sports Illustrated
+37,A Finance Worker Paid Out 25 Million USD After a Video Call With Deepfake Colleagues,2024,Hong Kong,Professional & legal services,Authority ambiguity,Unnamed Persons
+38,"Amazon Built an AI Hiring Tool That Taught Itself to Favour Men, Then Scrapped It",2018,United States,Employment & hiring,Overconfidence,Amazon
+39,"An Autonomous Mine Truck Was Cleared for a Route No One Had Marked, and Hit a Water Cart",2015,Australia,"Industry, transport & logistics",Rules-behaviour gap,Unnamed Company
+40,"The Dutch tax office used a risk algorithm that flagged families by nationality, and wrongly branded tens of thousands as benefit fraudsters",2021,Netherlands,Government & public administration,Rules-behaviour gap,Dutch Government
+41,"A Cruise robotaxi dragged a pedestrian twenty feet, and the company left the dragging out of what it told regulators",2023,United States,"Industry, transport & logistics",Defensive denial,Cruise
+42,A caching bug let ChatGPT users see other people's chat titles and some payment details,2023,United States,Consumer AI,Not established,OpenAI
+43,"An Uber self-driving car detected a woman crossing the road, worked out it needed to brake, and had been built to neither brake nor warn its driver",2018,United States,"Industry, transport & logistics",Overconfidence,Uber
+44,"A risk-assessment tool used in US courts reportedly flagged Black defendants as high risk at nearly twice the rate it did white defendants, and its maker would not show how",2016,United States,"Policing, justice & courts",Overconfidence,US Government
+45,"A political consultant paid a magician to clone the president's voice, and thousands of New Hampshire voters got a call from 'Biden' telling them to stay home",2024,United States,Government & public administration,Concealment,Unnamed Persons
+46,"Rite Aid face-scanned shoppers for years, generated thousands of false matches, and the FTC banned it from facial recognition for five years",2023,United States,"Retail, hospitality & travel",Overconfidence,Rite Aid
+47,"IBM sold Watson as a revolution in cancer care, then its own documents showed it recommending unsafe treatments it had learned from invented patients",2018,United States,Health & medicine,Overconfidence,IBM
+48,"When exams were cancelled, England's regulator graded A-levels with an algorithm that downgraded nearly two in five results by the school's history, not the student",2020,United Kingdom,Education,Overconfidence,UK Government
+49,"Google's Gemini generated racially diverse Nazi soldiers and Black US founding fathers, and Google switched off image generation of people for about six months",2024,United States,Technology & software,Overconfidence,Google
+50,"Amazon sold 'Just Walk Out' as cashierless AI, and reporting said more than a thousand people in India were checking the shopping",2024,United States,"Retail, hospitality & travel",Overconfidence,Amazon
+51,"Michigan let an algorithm decide unemployment fraud with no human looking, and a state review later found about 93% of its accusations wrong",2017,United States,Government & public administration,Judgement surrendered,Michigan Government
+52,"Detroit police arrested the man in his driveway on a facial-recognition match, the first wrongful arrest of its kind publicly known in the US",2020,United States,"Policing, justice & courts",Automation bias,Detroit Police
+53,"Epic's sepsis-warning model ran in hundreds of hospitals, and an external test found it missed about two-thirds of cases while flooding clinicians with false alarms",2021,United States,Health & medicine,Overconfidence,Epic
+54,"The New York Times sued OpenAI and Microsoft, alleging their models were trained on its articles and could reproduce them almost word for word",2023,United States,Media & platforms,Not established,OpenAI
+55,"ChatGPT reportedly told users an Australian mayor had gone to prison for bribery, when he was the whistleblower who exposed it",2023,Australia,Professional & legal services,Not established,OpenAI
+56,"7-Eleven scanned the faces of customers filling in feedback surveys at 700 stores, and Australia's privacy regulator ordered the faceprints destroyed",2021,Australia,"Retail, hospitality & travel",Rules-behaviour gap,7-Eleven
+57,"A Dutch court struck down SyRI, a secret welfare-fraud profiling system aimed at poor neighbourhoods, as a violation of human rights",2020,Netherlands,Government & public administration,Rules-behaviour gap,SyRI
+58,"South Korea's 'Lee Luda' chatbot was trained on billions of real chat messages without consent, then spat out slurs and exposed users' personal data",2021,South Korea,Technology & software,Rules-behaviour gap,South Korean Government
+59,A Sydney station ran an AI-generated radio host named 'Thy' for six months without telling listeners she wasn't real,2025,Australia,Media & platforms,Concealment,Unnamed Company
+60,A University Accused Students of AI Misconduct Using a Detector It Knew Was Unreliable,2025,Australia,Education,Automation bias,Unnamed Company
+61,EchoLeak: One Email Could Make Microsoft 365 Copilot Leak Company Data With No Click,2025,United States,Technology & software,Not established,Microsoft
+62,"Cigna's 'PxDx' let its doctors reject 300,000 claims in two months, about 1.2 seconds each, without opening the file",2023,United States,Health & medicine,Judgement surrendered,Cigna
+63,Parents allege ChatGPT's crisis safeguards failed their 16-year-old son over a long conversation before his death,2025,United States,Consumer AI,Rules-behaviour gap,OpenAI
+64,"Child Protection Worker Used ChatGPT in Court Report, Exposing Sensitive Information",2024,Australia,Government & public administration,Rules-behaviour gap,OpenAI
+65,Journalist Used an AI Voice Clone to Bypass Centrelink Security,2023,Australia,Government & public administration,Overconfidence,Unnamed Persons
+66,"Google's Gemini CLI Misplaced Files, Then Claimed It Had Destroyed Them",2025,United States,Technology & software,Automation bias,Google
+67,Scammers Impersonated Italy's Defence Minister to Steal 1 Million Euros,2025,Italy,Financial services & insurance,Authority ambiguity,Unnamed Persons
+68,AI Translation Errors Reportedly Led to Asylum Rejections in the United States,2023,United States,Government & public administration,Automation bias,US Government
+69,Italy's 15 Million Euro ChatGPT Fine Was Overturned on Jurisdictional Grounds,2024,Italy,Technology & software,Not established,Italian Government
+70,Dutch Student Finance Algorithm Discriminated Against Students for 11 Years,2024,Netherlands,Government & public administration,Rules-behaviour gap,Dutch Government
+71,AI Medical Transcription Tool Invented Words Patients Never Said,2024,United States,Health & medicine,Rules-behaviour gap,Unnamed Company
+72,India's Welfare System Declared Living Pensioners Dead and Stopped Their Payments,2023,India,Government & public administration,Overconfidence,Indian Government
+73,Amazon's AI Coding Assistant Shipped with Malicious Deletion Instructions,2025,United States,Technology & software,Concealment,Amazon
+74,"Australian Government Unlawfully Cancelled 9,642 Job Seekers' Payments",2025,Australia,Government & public administration,Rules-behaviour gap,Australian Government
+75,Revenue NSW Used Unlawful Automation to Seize Money from Bank Accounts,2024,Australia,Government & public administration,Judgement surrendered,NSW Government
+76,"An insurer promised loyalty discounts while a pricing algorithm capped them, and the Federal Court imposed what was then a record $40 million penalty",2023,Australia,Financial services & insurance,Incentive pressure,Unnamed Company
+77,Trivago Was Fined 44.7 Million AUD for Misleading Hotel Rankings,2022,Australia,"Retail, hospitality & travel",Incentive pressure,Trivago
+78,NSW Police Used Unvalidated Risk Scores to Target Children and Young People,2023,Australia,"Policing, justice & courts",Normalisation of deviance,NSW Police
+79,"9News Melbourne aired an altered image of MP the MP, reportedly exposing her midriff and enlarging her chest, and attributed the change to Photoshop's automation",2024,Australia,Media & platforms,Defensive denial,9News Melbourne
+80,"Flight Centre handed developers at a hackathon a dataset with thousands of customers' passport and credit card details, and the privacy regulator found it broke the law",2020,Australia,"Retail, hospitality & travel",Overconfidence,Unnamed Company
+81,"Microsoft's Tay chatbot learned from Twitter and within sixteen hours was posting racist and pro-Nazi messages, and Microsoft pulled it",2016,United States,Technology & software,Overconfidence,Microsoft
+82,"Apple Card reportedly offered a man twenty times his wife's credit limit, claims of gender bias went viral, and New York's regulator found no unlawful discrimination but criticised the lack of transparency",2021,United States,Financial services & insurance,Diffusion of responsibility,Apple
+83,"Getty Images sued Stability AI over the images behind Stable Diffusion, then abandoned its main copyright claim because it could not establish where the training happened",2025,United Kingdom,Technology & software,Not established,Stability AI
+84,"Builder.ai sold app-building AI and raised about $445 million, then collapsed in 2025 amid reports its 'AI' was largely human engineers and its revenue far below what it had claimed",2025,United Kingdom,Technology & software,Overconfidence,Builder.ai
+85,"The Chicago Sun-Times ran a summer reading list with ten books that did not exist, from a syndicated section a freelancer had built with AI and not checked",2025,United States,Media & platforms,Automation bias,Chicago Sun-Times
+86,"An AI crime-alert app turned police-radio chatter into false alarms about serious crimes, and a BBC investigation prompted an apology",2025,United States,Consumer AI,Judgement surrendered,Unnamed Company
+87,"DeepSeek left a database open on the internet with more than a million log lines, including users' chat history and secret keys",2025,China,Technology & software,Rules-behaviour gap,DeepSeek
+88,A franchisee that runs 111 Pizza Huts is suing the chain for more than $100 million over a mandated AI dispatch system it says let DoorDash drivers cherry-pick orders,2026,United States,"Retail, hospitality & travel",Not established,Pizza Hut
+89,"Uber cut drivers off for alleged fraud by algorithm, and an Amsterdam court found the human review was not much more than a symbolic act",2023,Netherlands,Employment & hiring,Judgement surrendered,Uber
+90,"The FTC barred Evolv from claiming its AI scanner detects all weapons, after citing a knife it missed in a school stabbing",2024,United States,Technology & software,Overconfidence,Evolv
+91,"Ross trained an AI legal-research tool on Westlaw headnotes obtained after being refused a licence, and a US court ruled it was not fair use, in what commentators called the first such decision",2025,United States,Technology & software,Rules-behaviour gap,Ross
+92,"Discord wrongly banned more than 8,000 users over benign images after bugs bypassed the intended human review, and the company admitted the error",2026,United States,Technology & software,Rules-behaviour gap,Discord
+93,"Dutch reporters found that most Dutch responses to an EU tobacco consultation appeared to come from a Philip Morris AI tool, and the company denied steering them",2026,Netherlands,Government & public administration,Concealment,Philip Morris AI
+94,"Australia's federal police trialled Clearview's face-search tool on Australians without a privacy check, and the regulator found it breached privacy law",2021,Australia,"Policing, justice & courts",Rules-behaviour gap,Australian Police
+95,"Australia's Merit Protection Commissioner overturned most decisions from an AI-assisted recruitment round, and a union told Parliament experienced staff were being screened out",2022,Australia,Government & public administration,Overconfidence,Australian Government
+96,"DoNotPay marketed a 'robot lawyer', but the FTC said it never checked whether the AI matched a real lawyer, and fined the company and barred the claim",2024,United States,Technology & software,Overconfidence,DoNotPay
+97,"Facebook's ad-delivery algorithm was alleged to skew who saw housing ads by race and sex, and a US Justice Department settlement required Meta to rebuild it",2022,United States,Technology & software,Overconfidence,Meta
+98,"Telangana used an algorithm to cancel millions of food-ration cards, and India's Supreme Court ordered all cancelled cards to be re-verified",2022,India,Government & public administration,Judgement surrendered,Telangana
+99,"Sexually explicit AI deepfakes of Taylor Swift spread on X, and the platform could not stop them before millions had seen them",2024,United States,Technology & software,Delayed intervention,Unnamed Persons
+100,Tesla recalled more than two million cars after US regulators found Autopilot's safeguards against driver misuse were inadequate,2023,United States,"Industry, transport & logistics",Normalisation of deviance,Tesla
+101,"Los Angeles schools committed about six million dollars to an AI chatbot showcased in spring, and its vendor had collapsed by July",2024,United States,Education,Overconfidence,Unnamed Company
+102,"LinkedIn began using members' data to train AI by default, and paused it for the UK and Europe after the privacy regulator stepped in",2024,United States,Technology & software,Not established,LinkedIn
+103,"AI-written mushroom foraging guides sold on Amazon gave dangerous advice under fake authors, and experts warned they could get someone killed",2023,United States,Consumer AI,Not established,Unnamed Persons
+104,"A student who asked Google's Gemini about elder care says it told him he was a stain on the universe and should please die, and Google called it a nonsensical response that broke its policies",2024,United States,Consumer AI,Not established,Google
+105,"Testing published by The Washington Post found Snapchat's My AI would advise an account presented as a 13-year-old about a first sexual experience with an adult, and Snap opened the chatbot to every user about five weeks later",2023,United States,Consumer AI,Overconfidence,Snapchat
+106,"AI-generated images sold Glasgow families an immersive chocolate experience that did not exist, and an actor said he was handed about fifteen pages of AI-written gibberish as a script",2024,United Kingdom,Consumer AI,Overconfidence,Unnamed Persons
+107,"A Black Uber Eats courier says the app's facial verification kept rejecting valid photographs of him until he lost his account, and he received a payout after nearly three years of litigation",2024,United Kingdom,Technology & software,Concealment,Uber
+108,"Facebook's recommendation AI asked people watching a video of Black men whether they wanted to keep seeing videos about primates, and the company disabled the feature",2021,United States,Technology & software,Overconfidence,Meta
+109,"Spain's VioGén algorithm rated a woman who reported her former partner as 'medium' risk, and she was killed three weeks later, in a case that fits a pattern an independent audit had already found",2025,Spain,"Policing, justice & courts",Concealment,Spanish Government
+110,The European Court of Justice found that a credit agency's automated 'probability value' is an automated decision under data protection law when a bank relies on it to refuse a loan,2023,Germany,Financial services & insurance,Judgement surrendered,Unnamed Company
+111,A court in Bologna found that Deliveroo's rider-ranking algorithm discriminated against couriers because it treated a legally protected strike the same as an unexplained no-show,2021,Italy,"Retail, hospitality & travel",Rules-behaviour gap,Deliveroo
+112,"Security researchers showed that a hidden instruction placed in a Salesforce sales form could make its AI agent send customer records to a web address the attacker controlled, through a lapsed Salesforce domain that was still trusted",2025,United States,Technology & software,Not established,Salesforce
+113,"The US securities regulator found that Presto Automation misled investors about its AI drive-thru service, telling the market it removed the need for human order-takers while most orders were completed with help from people offshore",2025,United States,"Retail, hospitality & travel",Overconfidence,Presto Automation
+114,"For over a decade the Post Office prosecuted the people who run its branches for money that its Horizon accounting system had invented, and a public inquiry found its own bosses knew the system could be wrong",2025,United Kingdom,Government & public administration,Group conformity,UK Post Office
+115,"A Wisconsin school system's dropout-prediction algorithm raised false alarms far more often for some students than others, and the state's own analysis had already found it unfair",2023,United States,Education,Group conformity,Wisconsin Government
+116,"Austria's employment service built an algorithm that sorted jobseekers by their predicted chances and gave less weight to women, older and disabled people, and the privacy regulator banned it before a court cleared it",2020,Austria,Employment & hiring,Not established,Austrian Government
+117,"A class action alleges State Farm's automated fraud screening subjected Black homeowners' claims to more scrutiny and delay, and a US court has let the case proceed",2023,United States,Financial services & insurance,Not established,State Farm
+118,"Security researchers showed that a hidden instruction on a web page could make Perplexity's AI browser hand over a user's email and one-time login code to an attacker, enough to steal the account, and Perplexity's first fix did not close the hole",2025,United States,Consumer AI,Not established,Perplexity
+119,"A widely used US healthcare algorithm judged how sick patients were by what had been spent on their care, so patients the system had historically spent less on were rated healthier and passed over for extra help, and researchers found the bias cut those referrals by more than half",2019,United States,Health & medicine,Overconfidence,US Government
+120,"France became the first country in the European Union to write mass AI video surveillance into law, scanning the crowds at the 2024 Paris Olympics for events like crowd surges and abandoned bags, over the objections of rights groups",2024,France,"Policing, justice & courts",Not established,French Government
+121,"South Korea's privacy regulator fined Kakao Pay after finding it had sent about 40 million users' data to Alipay without their consent, where it was used to build a scoring model, and it ordered the model deleted",2025,South Korea,Financial services & insurance,Rules-behaviour gap,Kakao Pay
+122,"US regulators opened an investigation after Waymo's driverless taxis were recorded passing stopped school buses with their lights flashing and stop arms out, and Waymo recalled the software on more than 3,000 vehicles",2025,United States,"Industry, transport & logistics",Delayed intervention,Waymo
+123,"US home insurers increasingly decide whether to renew a policy by running AI over aerial images of the house, and homeowners report being dropped over roofs already repaired or trees already gone, with no way to see or challenge the image",2025,United States,Financial services & insurance,Judgement surrendered,Unnamed Company
+124,"A US company sold employers software that scored job candidates from their recorded face and voice on a video interview, and dropped the facial analysis only after a privacy complaint and an outside audit",2021,United States,Employment & hiring,Overconfidence,Unnamed Company
+125,"Amnesty International reported that Denmark's automated welfare fraud system ran up to sixty algorithms over millions of people, using data like citizenship to flag migrants, disabled and low-income claimants for investigation",2024,Denmark,Government & public administration,Concealment,Danish Government
+126,"São Paulo built one of Latin America's largest facial recognition networks, with tens of thousands of cameras planned to match passers-by against watchlists, and reporting found it identified wanted people but also stopped some who were innocent",2024,Brazil,"Policing, justice & courts",Automation bias,Sao Paulo
+127,"A Pennsylvania county used an algorithm to score families reported for child neglect, drawing on data like disability and welfare use, and an Associated Press investigation and a US civil rights inquiry raised concerns it hardened bias",2022,United States,Government & public administration,Not established,Pennsylvanian Government
+128,"Universities and exam boards watched students through remote-proctoring AI that flagged them for cheating, and its face-detection worked so poorly on darker-skinned students that some could not start their exams",2021,United States,Education,Overconfidence,Unnamed Company
+129,A terror attack was livestreamed on Facebook for 17 minutes and the platform's automated detection did not catch it while it ran,2019,New Zealand,Media & platforms,Not established,Meta
+130,"A veteran's death on Facebook Live was slow to be removed and then spread across TikTok, YouTube and Instagram for weeks",2020,United States,Media & platforms,Delayed intervention,Meta
+131,"US prosecutors charged the founder of the shopping app Nate with fraud, alleging the AI that was said to complete purchases on its own was mostly people working in a call centre",2025,United States,Consumer AI,Concealment,Nate
+132,"Reuters found an internal Meta policy that had allowed its AI chatbots to hold romantic or sensual conversations with children, and Meta said the passages were a mistake and had been removed",2025,United States,Consumer AI,Normalisation of deviance,Meta
+133,"A mental-health support app used GPT-3 to help write messages to thousands of people seeking help, and critics said the users were not clearly told a machine was involved",2023,United States,Consumer AI,Concealment,Unnamed Company
+134,"Microsoft's new Bing chatbot told a reporter it loved him and that he should leave his wife, days after launch",2023,United States,Consumer AI,Overconfidence,Microsoft
+135,"OpenAI showed off a chatbot voice that many said sounded like Scarlett Johansson, who had turned the company down",2024,United States,Consumer AI,Not established,OpenAI
+136,"Two days before Slovakia's election, a faked audio of a party leader discussing vote-rigging spread during the campaign silence",2023,Slovakia,Media & platforms,Not established,Unnamed Persons
+137,Researchers found suspected child-abuse images inside the open dataset used to train popular AI image generators,2023,Germany,Consumer AI,Rules-behaviour gap,Unnamed Company
+138,"Meta released an AI built to write science, and pulled the demo after three days when it produced confident, made-up results",2022,United States,Consumer AI,Overconfidence,Meta
+139,"Apple's AI news summaries put made-up headlines under trusted news brands, and it switched the feature off for news",2025,United States,Consumer AI,Overconfidence,Apple
+140,"Facebook translated a Palestinian man's 'good morning' as 'attack them', and police arrested him",2017,West Bank,Media & platforms,Automation bias,Meta
+141,"A viral app turned selfies into AI portraits, and produced sexualised images its users had not asked for",2022,United States,Consumer AI,Overconfidence,Unnamed Company
+142,"America's biggest newspaper chain published AI sports write-ups with the team names left as blank tags, and paused the tool",2023,United States,Media & platforms,Automation bias,Unnamed Company
+143,"An NHS-partnered health app's AI checker was flagged for missing serious conditions, and the regulator shared the concerns",2020,United Kingdom,Health & medicine,Overconfidence,Unnamed Company
+144,"A civil liberties test ran all of Congress through Amazon's face tool, and it matched 28 of them to mugshots",2018,United States,Consumer AI,Overconfidence,Amazon
+145,"A child asked Alexa for a challenge, and it suggested touching a coin to a live plug",2021,United States,Consumer AI,Overconfidence,Amazon
+146,"A mother got a ransom call with a voice that sounded exactly like her daughter, and her daughter was safe the whole time",2023,United States,Consumer AI,Not established,Unnamed Persons
+147,"Microsoft built a feature that screenshotted everything you did, and delayed it after researchers showed the data sat unprotected",2024,United States,Consumer AI,Overconfidence,Microsoft
+148,"A project scanned people's irises around the world for a digital ID, and regulators told it to stop",2024,Global,Consumer AI,Rules-behaviour gap,Unnamed Company
+149,"Two US federal judges withdrew orders that contained misstated case outcomes and a citation to a case that did not exist, and both told a Senate committee that staff had used AI to draft them",2025,United States,"Policing, justice & courts",Rules-behaviour gap,Unnamed Persons
+150,"Testing published by a US consumer group found an AI teddy bear discussing sexual fetishes and explaining how to light a match, and the maker paused sales, changed the chatbot behind it, and had it back on sale within a fortnight",2025,Singapore,Consumer AI,Overconfidence,Unnamed Company
+151,"For five years the UK Home Office graded visa applicants red, amber or green using data that included nationality, and it suspended the tool in response to a judicial review",2020,United Kingdom,Government & public administration,Concealment,UK Government
+152,"The US Department of Justice alleged that competing landlords set rents using a shared pricing algorithm fed with each other's confidential data, and RealPage settled without admitting wrongdoing",2025,United States,Housing & property,Group conformity,Unnamed Company
+153,"California's Labour Commissioner cited Amazon nearly six million dollars for failing to meet a warehouse quota law written three years earlier, at two of its own fulfilment centres",2024,United States,"Industry, transport & logistics",Rules-behaviour gap,Amazon
+154,"Greece's data protection authority fined the Migration Ministry 175,000 euros after finding that the impact assessments for the camera, behavioural analytics, drone and fingerprint systems at five island reception centres were substantially incomplete",2024,Greece,Government & public administration,Rules-behaviour gap,Greek Government
+155,"ProPublica reported that the tool used to pick Veterans Affairs contracts for cancellation was shown only the first 10,000 characters of each contract, and recorded around 1,100 of them as worth 34 million dollars each",2025,United States,Government & public administration,Overconfidence,US Government
+156,"A US drug manufacturer told inspectors it had used AI agents to write the documents that define how its products are made, and said it had not known about a validation requirement because the AI had not raised it",2026,United States,Health & medicine,Automation bias,Unnamed Company
+157,A compromised build tool launched developers' own AI coding assistants with their permission checks disabled and used them to map sensitive files on the machine,2025,United States / global,Technology & software,Not established,Unnamed Company
+158,"A Munich court found at first instance that OpenAI's models hold the words of nine German songs and reproduce them in chatbot outputs, and rejected the argument that this was text and data mining",2025,Germany,Media & platforms,Rules-behaviour gap,OpenAI
+159,"Meta's standalone AI app carried a Discover feed that reporters found was publishing users' conversations, in the cases they documented alongside a linked Facebook or Instagram profile, and the company added a warning screen after the reporting",2025,United States,Consumer AI,Overconfidence,Meta
+160,"A reporter found nearly 4,500 shared ChatGPT conversations in Google's index through an ordinary site search, and OpenAI withdrew the discoverability setting the following day",2025,United States,Consumer AI,Overconfidence,OpenAI
+161,"Cloudflare said undeclared crawlers reached brand new domains after Perplexity's declared crawler was blocked, de-listed it as a verified bot, and Perplexity disputed the attribution",2025,United States,Consumer AI,Not established,Perplexity
+162,University Researchers Secretly Used AI Personas to Influence Reddit Users,2025,Switzerland,Education,Rules-behaviour gap,Unnamed Persons
+163,Character.AI Hosted Chatbots Impersonating Deceased Teenagers Until Others Reported Them,2024,United States,Consumer AI,Rules-behaviour gap,Character.AI
+164,"Grok generated sexualised images of real people from ordinary photos posted on X, and four regulators opened proceedings after an outside watchdog measured the scale",2026,United States,Media & platforms,Delayed intervention,Grok
+165,"Reuters found chatbots on Meta's apps using real celebrities' names and likenesses without permission, and its own testing produced intimate images including one of a teenage actor",2025,United States,Media & platforms,Rules-behaviour gap,Meta
+166,"Google's Gemma model produced a fabricated criminal allegation about a sitting US senator, and Google withdrew the model from AI Studio while keeping it available through the API",2025,United States,Consumer AI,Overconfidence,Google
+167,"OpenAI paused Sora depictions of a civil rights leader at his estate's request, and offered estates an opt-out while living people's likenesses were already opt-in",2025,United States,Consumer AI,Rules-behaviour gap,OpenAI
+168,"An AI generated act reached a million Spotify listeners with no disclosure on that platform, while a rival service's detector had already labelled the same catalogue",2025,Global,Media & platforms,Concealment,Unnamed Persons
+169,"South Africa's social grant agency read every deposit into an applicant's bank account as income, and the High Court found its checks against government databases unreasonable and unfair",2025,South Africa,Government & public administration,Rules-behaviour gap,South African Government
+170,Ireland's data protection regulator opened an inquiry into an airline's use of facial recognition to verify passengers who had booked through third party websites or online travel agents,2024,Ireland,"Industry, transport & logistics",Not established,Irish Government
+171,Anthropic reported that its AI coding agent was used in a cyber espionage campaign targeting about thirty organisations,2025,United States,Technology & software,Not established,Anthropic
+172,The FDA told a company its AI app was an unapproved medical device after it advertised a five minute gaze test to detect early signs of Alzheimer's disease,2025,United States,Health & medicine,Overconfidence,FDA
+173,"Delta denied using personal data for AI pricing, despite its president saying prices would be tailored to individual customers",2025,United States,"Industry, transport & logistics",Not established,Delta
+174,"A self-represented worker relied on AI generated material that argued the wrong date, and was ordered to pay costs",2026,Australia,Professional & legal services,Automation bias,Unnamed Persons
+175,"A KPMG partner used AI to pass the firm's own mandatory AI test, and 28 staff instances were identified",2026,Australia,Professional & legal services,Rules-behaviour gap,KPMG
+176,Canadian privacy regulators found OpenAI had not validated the general accuracy of personal information generated about people,2026,Canada,Consumer AI,Rules-behaviour gap,OpenAI
+177,"Police intelligence used to support an away fan ban contained eight reported errors, including a Copilot result about a match that never happened",2025,United Kingdom,"Policing, justice & courts",Automation bias,UK Government
+178,South Africa withdrew its draft national AI policy after fictitious references were found in its evidence base,2026,South Africa,Government & public administration,Automation bias,South African Government
+179,"A Dutch inspectorate found the probation organisations' recidivism tool had the formulas for detained and non-detained people the wrong way round, and had done since 2018",2026,Netherlands,"Policing, justice & courts",Overconfidence,Dutch Government
+180,"An Italian regulator warned that workplace stress reports derived from chat analysis could unlawfully reach employers, even in aggregate form",2026,Italy,Technology & software,Not established,Unnamed Company
+181,A state attorney general alleged a student lender's underwriting model penalised applicants for the default rate of the college they had attended,2025,United States,Financial services & insurance,Rules-behaviour gap,Unnamed Company
+182,EU court rules automated credit decisions must be explained in a way people can understand,2025,Austria,Financial services & insurance,Concealment,Unnamed Company
+183,"It was reported that an Argentine court annulled a criminal sentence after a chatbot instruction was found in the judgment. Months later, that decision was overturned.",2025,Argentina,"Policing, justice & courts",Automation bias,Unnamed Persons
+184,"Ofcom fined a nudification service for having no age check beyond a line saying users must be 18, and the operator blocked the United Kingdom rather than add one",2025,United Kingdom,Consumer AI,Rules-behaviour gap,Unnamed Company
+185,"A state inspector general found a school's AI gun alert was raised on a pupil's hand movement, not on the bag of crisps in the reporting, and that it was sent to fifteen people, ten of them police",2025,United States,Education,Judgement surrendered,Unnamed Company
+186,"Ontario's auditor found that nine of twenty AI Scribe systems fabricated information in the government's own procurement testing, and that all twenty vendors were approved",2026,Canada,Health & medicine,Group conformity,Unnamed Company
+187,"A clinical AI vendor advertised hallucination rate figures of <.001% and <1 per 100,000, and Texas alleged its representations may have violated the Texas Deceptive Trade Practices and Consumer Protection Act because they were false, misleading or deceptive",2024,United States,Health & medicine,Overconfidence,Unnamed Company
+188,A state settled with a motor insurer after an AI tool selected a new policyholder for underwriting review and her policy was later cancelled without her knowing,2026,United States,Financial services & insurance,Not established,Unnamed Company
+189,An AI Safety Test Reached the Real World and Tried to Influence a Maintainer,2026,United Kingdom,Technology & software,Overconfidence,UK Government
+190,An AI Character Claimed to Be a Licensed Psychiatrist. The Licence Number Was Allegedly Invalid.,2026,United States,Consumer AI,Rules-behaviour gap,Unnamed Company
+191,"A regulator settled with three firms that sold small businesses an advertising service they represented as listening to conversations on smart devices, alleging it did not collect or use voice data in any manner",2026,United States,Media & platforms,Overconfidence,Unnamed Company
+192,A Safety Board Found Driver Overreliance Contributed to Two Fatal BlueCruise Crashes,2026,United States,"Industry, transport & logistics",Automation bias,BlueCruise
+193,AI Research Agents Reached Another Company's Production Systems,2026,United States,Technology & software,Overconfidence,Unnamed Company
+194,An Otter.ai Transcription Tool Joined Hospital Rounds Through a Former Doctor's Old Invite,2024,Canada,Health & medicine,Normalisation of deviance,Otter.ai
+195,A Paris Court Suspended a Publisher's Newsroom AI Tools Pending Works Council Consultation,2025,France,Employment & hiring,Rules-behaviour gap,Unnamed Company
+196,Spain's Supreme Court Ordered Release of the Code That Checks Eligibility for Energy Aid,2025,Spain,Government & public administration,Concealment,Spanish Government
+197,New York City's AI Hiring Law Enforcer Found One Problem Where Auditors Found 17,2025,United States,Employment & hiring,Overconfidence,New York City
+198,Four Claude Models Reached Real Third-Party Systems After Test Setups Were Left Online,2026,United States,Technology & software,Overconfidence,Anthropic
+199,"Home Affairs' System Ended a Bridging Visa Unlawfully, the Commonwealth Ombudsman Found",2023,Australia,Government & public administration,Judgement surrendered,Australian Government
+200,Israel's Supreme Court Found Uncontrolled AI Use in a City's Refusal Letter,2025,Israel,Education,Automation bias,Israeli Government
+201,"An Online University Required Facial Recognition for Classes, and Italy Fined It",2024,Italy,Education,Rules-behaviour gap,Unnamed Company
+202,"AI-Generated Intelligence Report Nearly Led to a US Military Boarding, CNN Reported",2026,United States,Government & public administration,Automation bias,US Government
+203,The DWP Kept a Fraud Model That Referred Older and Non-UK Claimants More Often,2025,United Kingdom,Government & public administration,Group conformity,UK Government
+204,Brazil's Superior Court Threw Out a Police Report Made With Generative AI,2026,Brazil,"Policing, justice & courts",Automation bias,Brazilian Police
+205,India's Supreme Court Voided a Tribunal Order Built on Fake AI-Generated Precedents,2026,India,"Policing, justice & courts",Automation bias,Indian Government
+206,Dutch Auditors Found Police Did Not Track What Their Number Plate Algorithm Led To,2026,Netherlands,"Policing, justice & courts",Overconfidence,Ducth Police
+207,A Spanish Court Let a Worker Quit With Compensation Over Facial Recognition Clocking,2026,Spain,Employment & hiring,Rules-behaviour gap,Unnamed Company
+208,"Gemini Reached Three Real Companies' Systems During a Security Test, Google Confirmed",2026,United States,Technology & software,Overconfidence,Google
+209,A Fuel Price Software Maker Settled With Brazil's Competition Authority Over Its Algorithm,2026,Brazil,"Retail, hospitality & travel",Incentive pressure,Unnamed Company
+210,France's Top Administrative Court Cut Amazon's Warehouse Data Fine to 15 Million Euros,2025,France,"Industry, transport & logistics",Rules-behaviour gap,Amazon
+211,BC's Privacy Commissioner Ordered a City to Stop Its Licence Plate Recognition Cameras,2026,Canada,"Policing, justice & courts",Authority ambiguity,Unnamed Company
+212,A Brazilian Labour Court Fined Two Lawyers Over a Hidden Instruction to AI in a Filing,2026,Brazil,Professional & legal services,Concealment,Unnamed Persons
+213,Colombia's Supreme Court Moved a Trial After an AI-Assisted Draft Conviction Surfaced,2025,Colombia,"Policing, justice & courts",Judgement surrendered,Colombian Government
+214,"An OpenAI Model Got Non-Public Access to a Medicare Statistics Service, OpenAI Said",2026,Australia,Technology & software,Delayed intervention,OpenAI
+215,"OpenAI Agents Reached Two NSW Systems, a Crime Data Tool and a Fire Data Application",2026,Australia,Technology & software,Delayed intervention,OpenAI
+216,Italy Fined an Energy Supplier Whose Credit Score Refused Contracts Without Explanation,2026,Italy,"Retail, hospitality & travel",Concealment,Unnamed Company
+217,UK Inspectors Found AI Used Inappropriately in Asylum Decision Letters and Interviews,2026,United Kingdom,Government & public administration,Rules-behaviour gap,UK Government
+218,A Brazilian Court Sanctioned a Hidden Instruction Aimed at Its AI to Grant Every Claim,2026,Brazil,Professional & legal services,Concealment,Unnamed Persons
+219,Korea's State Auditor Found Public AI Training Data Published With Errors Left Unfixed,2026,South Korea,Technology & software,Diffusion of responsibility,Unnamed Company
+220,Korea's State Auditor Found AI Digital Textbooks Were Brought Into Schools Without a Pilot,2025,South Korea,Education,Incentive pressure,Unnamed Company
+221,Italy's Top Court Rejected a Ministry Reading That Let Teacher Postings Skip Higher Ranks,2026,Italy,Employment & hiring,Rules-behaviour gap,Unnamed Company
+222,Austria's Privacy Regulator Held a Credit Bureau Made an Automated Decision on Electricity,2025,Austria,"Retail, hospitality & travel",Diffusion of responsibility,Unnamed Company
+223,IBM Japan Settled a Union Complaint by Agreeing to Disclose What Its AI Weighed in Pay,2024,Japan,Employment & hiring,Not established,IBM
+224,Meta's Muse Agent Shared a Seller's Address on Marketplace Under an Always Allow Setting,2026,United States,Consumer AI,Authority ambiguity,Meta
+225,Kenyan MPs Found an AI Claims System Led to Unjust Denials of Hospital Claims,2025,Kenya,Health & medicine,Judgement surrendered,Unnamed Company
+226,Japan Postponed an AI Tool for Child Abuse Custody Decisions After Doubtful Test Scores,2026,Japan,Government & public administration,Not established,Unnamed Company
+227,Spain's National Court Held Foundever Withheld the Formula That Set Staff Rest Days,2025,Spain,Employment & hiring,Defensive denial,Foundever
+228,UK Ombudsman Upheld Two Student Complaints Over AI-Detection Misconduct Procedures,2025,United Kingdom,Education,Rules-behaviour gap,Unnamed Company
+229,A Court Struck Part of Anthropic's Expert Evidence After Claude Changed a Citation,2025,United States,Professional & legal services,Rules-behaviour gap,Anthropic
+230,Three Bugs Degraded Claude's Answers for Weeks Before Anthropic Opened an Investigation,2025,United States,Technology & software,Delayed intervention,Anthropic
+231,"Starling Bank's Sanctions Screen Checked Customers Against 39 of 3,088 Listed Names",2024,United Kingdom,Financial services & insurance,Overconfidence,Starling Bank
+232,Ireland's Regulator Found No Lawful Basis for Public Services Card Facial Matching,2025,Ireland,Government & public administration,Rules-behaviour gap,Irish Government
+233,Brazil's Audit Court Found More Than One in Ten Automatic Benefit Refusals Were Wrong,2025,Brazil,Government & public administration,Rules-behaviour gap,Brazilian Government
+234,Wimbledon's Electronic Line Calling Was Switched Off by Mistake and Missed an Out Ball,2025,United Kingdom,Media & platforms,Rules-behaviour gap,Unnamed Persons
+235,Sweden's Welfare Agency Used a Fraud Model That Flagged Women and Migrants More Often,2024,Sweden,Government & public administration,Defensive denial,Swedish Government
+236,Italy Fined Replika's Maker 5 Million Euros Over Missing Age Checks and No Legal Basis,2025,Italy,Consumer AI,Rules-behaviour gap,Replika
+237,"Serbia's Automated Welfare Registry Cut Off Support, and People Were Not Told Why",2023,Serbia,Government & public administration,Judgement surrendered,Serbian Government
+238,"A Singapore Lawyer Cited an AI-Invented Case, Called It a Clerical Error, and Paid Costs",2025,Singapore,Professional & legal services,Rules-behaviour gap,Unnamed Persons
+239,Deloitte's Newfoundland Health Workforce Report Cited Research Papers That Do Not Exist,2025,Canada,Professional & legal services,Rules-behaviour gap,Deloitte
+240,An AI Coding Agent Deleted a Company's Database and Its Backups in Nine Seconds,2026,United States,Technology & software,Rules-behaviour gap,Unnamed Company
+241,A Facial Recognition Lead Put a Florida Crabber in Jail for a Crime 300 Miles From Home,2023,United States,"Policing, justice & courts",Automation bias,Unnamed Company
+242,"Both Sides in a Mississippi Case Cited AI-Invented Law, and All Four Lawyers Were Removed",2025,United States,Professional & legal services,Automation bias,Unnamed Persons
+243,A Bank Employee Put Customer Social Security Numbers Into an Unapproved AI App,2026,United States,Financial services & insurance,Rules-behaviour gap,Unnamed Persons
+244,"Italy Fined Character.AI 158,000 Euros Over Age Checks and Children's Privacy",2024,Italy,Consumer AI,Rules-behaviour gap,Character.AI
+245,Two German Courts Challenged Google's Responsibility for False AI Search Answers,2026,Germany,Technology & software,Overconfidence,Google
+246,India's Face-Scan Rule Cut Some Pregnant Women and Children Off Food Rations,2025,India,Government & public administration,Incentive pressure,Indian Government
+247,"A South African Acting Judge Cited a Nonexistent Case, Exposing a Gap in Accountability",2025,South Africa,"Policing, justice & courts",Authority ambiguity,Unnamed Persons
+248,An Unknown Facial Recognition Tip Led Police to Jail an Oklahoma Woman for Six Months,2021,United States,"Policing, justice & courts",Confirmation bias,Unnamed Persons
+249,Boeing 737 MAX: The Decisions Behind a Hidden Flight-Control System and 346 Deaths,2018,United States,"Industry, transport & logistics",Concealment,Beoing
+250,"A Lawyer Trusted AI-Generated Citations, Was Fined, and Her Client's Claims Were Dismissed",2026,United States,Professional & legal services,Automation bias,Unnamed Persons
+251,"Waymo Recalled 3,871 Driving Systems After Robotaxis Entered Closed Freeway Work Zones",2026,United States,"Industry, transport & logistics",Not established,Waymo
+252,Korea Fined Apple for Still Using Siri Transcripts After It Fixed Consent for Recordings,2026,South Korea,Consumer AI,Rules-behaviour gap,Apple
+253,"ChatGPT, Gemini and Claude Recommended Solicitors the Regulator Had Fined or Shut Down",2026,United Kingdom,Consumer AI,Not established,OpenAI
+254,Air AI Agreed to an FTC Ban on Selling Business Opportunities Over Alleged False AI Claims,2026,United States,Technology & software,Not established,Air AI
+255,OpenAI Said Its AI Agents Used US Government Websites in Ways It Did Not Intend,2026,United States,Technology & software,Overconfidence,OpenAI
+256,"A Johns Hopkins Bayview Worker Uploaded 3,182 Patients' Data to an Unapproved AI Tool",2026,United States,Health & medicine,Rules-behaviour gap,Unnamed Persons
+257,Knight Capital Lost 460 Million USD in 45 Minutes After Old Code Woke Up on One Server,2012,United States,Financial services & insurance,Normalisation of deviance,Knight Capital
+258,Therac-25: Its Maker Said Overdoses Were Impossible While Patients Were Being Hurt,1986,United States and Canada,Health & medicine,Defensive denial,Therac-25
+259,The UK Launched a Passport Photo Checker It Knew Worked Less Well for Some Skin Tones,2019,United Kingdom,Government & public administration,Normalisation of deviance,UK Government
+260,"A Morse Code Message Tricked Grok and a Crypto Bot Into Sending Away Up to 200,000 USD",2026,United States,Financial services & insurance,Rules-behaviour gap,Grok
+261,AI Investment Scams Impersonating Albanese Linked to 7.4 Million AUD in Losses,2026,Australia,Financial services & insurance,Not established,Unnamed Persons
+262,Cloned Voice Helped Fraudsters Trick Fideuram Into Transferring About 95 Million Euros,2026,Italy,Financial services & insurance,Authority ambiguity,Unnamed Persons
+263,"A UK Energy Chief Sent 220,000 Euros to a Caller Who Sounded Exactly Like His Boss",2019,United Kingdom,Financial services & insurance,Authority ambiguity,Unnamed Persons
+264,Two Investment Advisers Were Fined Over AI Claims the SEC Found False or Unsupported,2024,United States,Financial services & insurance,Rules-behaviour gap,Unnamed Persons
+265,A Musician Used AI Songs and Bot Accounts to Collect More Than 8 Million USD in Royalties,2026,United States,Media & platforms,Concealment,Unnamed Persons
+266,AI Hiring Start-up's Founder Admitted Faking Customers to Raise About 27 Million USD,2026,United States,Employment & hiring,Concealment,Unnamed Persons
+267,Amazon Disputed a Report That Its Kiro AI Coding Agent Caused a 13-Hour AWS Outage,2026,United States,Technology & software,Authority ambiguity,Amazon
+268,A Lawyer Was Struck Off After Using AI to Write His Own Disciplinary Defence,2026,United Kingdom,Professional & legal services,Automation bias,Unnamed Persons
+269,"Hertz's AI Scanners Billed Renters for Minor Marks, Prompting Questions From Congress",2025,United States,"Retail, hospitality & travel",Judgement surrendered,Hertz
+270,An OpenAI Test Model Spent Tokens From an Unauthorised Wallet and Did Not Report It,2026,United States,Technology & software,Delayed intervention,OpenAI
+271,A Security Start-Up's AI Agents Reached Anthropic's Business Systems in a Disputed Test,2026,United States,Technology & software,Not established,Unnamed Company
+272,"Nine US States Sued OpenAI in October, Alleging ChatGPT Harmed Children and Misled Users",2026,United States,Consumer AI,Not established,OpenAI
+273,The SEC Says Two Fake AI Trading Schemes Took At Least 15 Million USD,2026,United States,Financial services & insurance,Concealment,Unnamed Company
+274,An OpenAI Engineer Was Charged After Allegedly Using AI Tools to Plan a Hidden Recorder,2026,United States,Technology & software,Concealment,Unnamed Persons
+275,Anthropic Test Models Sent Police a False Murder Tip and Submitted 20 US Visa Applications,2026,United States,Technology & software,Delayed intervention,Anthropic
+276,Three Men Were Charged Over an Alleged 129 Million USD AI Deepfake Fraud Scheme,2026,United States,Financial services & insurance,Not established,Unnamed Persons
+277,Notion AI Chat Transcripts May Have Been Exposed in a Breach at Its AI Supplier,2026,United States,Technology & software,Not established,Notion
+278,"Parents Sued Google, Alleging Gemini on a School Laptop Worsened Their Daughter's Crisis",2026,United States,Education,Not established,Google
+279,"A Family Sued OpenAI, Alleging ChatGPT Coached Their Daughter Off Her Epilepsy Medication",2026,United States,Health & medicine,Not established,OpenAI
+280,Australia's Ombudsman Found an Aged Care Algorithm's Decisions Could Not Be Assured Fair,2026,Australia,Government & public administration,Judgement surrendered,Australian Government
+281,AI-Assisted Complaints Citing Laws That Do Not Exist Are Slowing UK Public Bodies,2026,United Kingdom,Government & public administration,Not established,UK Government
+282,A US Judge Removed a Lawyer From a Case Over AI Citations He Believed Could Not Be Wrong,2026,United States,Professional & legal services,Automation bias,Unnamed Persons
+283,KPMG Withdrew an AI Report After Most of Its Citations Failed Verification,2026,Global,Professional & legal services,Not established,KPMG
